@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Edificio {
 
 	public static void main(String[] args) {
-		int A1 = 1;
+	
 		int Pisos[] = new int[6];
 		int HabiPuerta[] = new int[4];
 
